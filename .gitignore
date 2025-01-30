@@ -1,0 +1,7 @@
+.venv
+
+# Auto-generated mac file 
+.DS_Store
+
+data/*
+!data/help.txt
